@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Bless the Lord</title>
+  <author>J. Berthier  </author>
+  <copyright></copyright>
+  <hymn_number>038</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>Dm</key>
+  <aka></aka>
+  <key_line>291</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Jezus: Zmartwychwstanie; Uwielbienie; TAIZE; </theme>
+  <tempo>T=76</tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.  Dm       G       Dm  
+ Bless the Lord my soul
+.      Bb       C    F   A
+ and bless His holy name.
+.  Dm       G       Dm  
+ Bless the Lord my soul
+.    Bb      C       Dm    
+ He rescues me from death.
+---
+[V2]
+ Wielbić Pana chcę,
+ radosną śpiewać pieśń.
+ Wielbić Pana chcę
+ On źródłem życia jest.
+
+[V3]
+ Pana duszo sław,
+ Radosną śpiewaj pieśń.
+ Pana duszo sław,
+ On skruszył śmierci moc.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

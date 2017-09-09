@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Liturgia - Kyrie</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>0</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line>273</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Eucharystyczne; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.Em   Am     B         Em
+ Pane zmiłuj się nad nami
+.G       Am     D7        G  (B7)
+ Chryste zmiłuj się nad nami
+.Em   Am     B         Em
+ Pane zmiłuj się nad nami
+--- 
+
+[V2]                                                         
+.Dmaj7 G              Dmaj7 
+ Pane  zmiłuj się nad nami
+.G       D/F#           Em   ( A4-3) 
+ Chryste zmiłuj się nad nami
+.Dmaj7 G              Dmaj7
+ Pane  zmiłuj się nad nami
+ 
+[V3]                                                       
+.  Dm              A      Dm 
+ O Panie (Chryste) zmiłuj się
+.Gm                Bb     A    
+ O Panie (Chryste) zmiłuj się 
+.Dm                Gm7 A7  Dm  
+ O Panie (Chryste) zmi_łuj się 
+ 
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

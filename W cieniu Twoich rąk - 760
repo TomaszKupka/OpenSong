@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>W cieniu Twoich rąk</title>
+  <author>Michael W. Smith, TGD</author>
+  <copyright></copyright>
+  <hymn_number>760</hymn_number>
+  <presentation>V1 V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>A</key>
+  <aka>Draw me close</aka>
+  <key_line>333</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża opatrzność; Boże pocieszenie; Prośba; Tęsknota za Bogiem; </theme>
+  <tempo>72</tempo>
+  <time_sig></time_sig>
+  <lyrics>; A   D/A E/A  ▼A
+;Intro bez BB  intro BB 1T
+[V1]
+.A               D/A 
+ W cieniu Twoich rąk 
+.E/A              A 
+   ukryj, proszę, mnie,
+.E/G#               D/F#  
+  Gdy boję się, gdy wokół mrok, 
+.F#m    F#/E             Dmaj7▼
+   bądź światłem, bądź nadziei dniem.     
+[V2] 
+.A                  D/A 
+ Wszystkim, o czym śnię, 
+.E/A            A 
+ głosem w sercu mym,
+.E/G#            D/F#     
+ Jak ręka, która trzyma mnie. 
+.F#m     F#m/E          Dmaj7          
+     Nad brzegiem nocy, brzegiem dni
+.A/E                E7sus4▼ 
+  Bądź jak skrzydła dwa, 
+.              A►    D/E E7
+ kiedy braknie sił.
+---   
+[C]
+.A     E/A    D/A 
+ Chwyć mnie i nieś,
+.A     E/G#  D/F#   E    
+ niech niebo bliżej będzie,
+.A   E/A    D/A  Bm7/F#(►)           E7        A(▼)(■) 
+ Tak bardzo chcę         w ramionach skryć się Twych.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

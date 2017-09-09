@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Duchu Święty przyjdź z ogniem Swym</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>127</hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>Am</key>
+  <aka></aka>
+  <key_line>212</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Duch Święty; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.Am         
+ Duchu Święty
+.Dm7                E   
+ przyjdź z ogniem swym //2x
+[V2] 
+.Am 
+ Duchu Święty
+.Dm7           E
+ oczyść serce  me //x2
+ 
+---
+[C]
+.F            G                Am 
+ Duchu Święty przyjdź z ogniem swym
+.F            G                E3-4-3     
+ Duchu Święty przyjdź z ogniem swym.
+.F       G     Am     F      G     Am  
+ Przyjdź Duchu Święty rozpal ogień Swój,
+.F       G     Am     F      G     Am  
+ Przyjdź Duchu Święty rozpal ogień Swój,
+.F      G     Am      
+ Rozpal ogień Swój //x4
+ 
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

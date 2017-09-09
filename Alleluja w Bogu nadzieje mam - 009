@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Alleluja - w Bogu nadzieje mam</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>009</hymn_number>
+  <presentation>C V1 C V2 C V3 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>G</key>
+  <aka></aka>
+  <key_line>204</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża radość; Dziękczynienie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[C] 
+.G C   D   G C   D B7   C D  G        Em 
+ Alleluja, Alleluja   w Bogu nadzieje mam
+.C         D       G  
+ On pełnią radości mej.
+
+[V1]
+.G           D          C     G 
+ Przyjdźmy radośnie śpiewajmy dziś
+.C       Am       D   C/D     D    
+ skale naszego zbawienia, z wdzięcznym
+.G            D     C         G 
+ sercem za wszystko dziękując Mu,
+.      C     Am      D     C/D     D
+ wykrzykujmy radosną pieśń     
+---      
+[V2]
+ Gdyż wielkim Bogiem jest Pan,
+ Królem wszelkiego stworzenia.
+ Góry i morza w jego ręku są,
+ On cudownie uczynił świat.
+
+[V3]
+ Pójdźmy i przed Nim pokłońmy się,
+ Uklęknijmy przed Jego tronem.
+ On Bogiem naszym, On zbawił nas,
+ On broni nas ręką swą.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

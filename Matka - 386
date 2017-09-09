@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Matka</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>386</hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>G</key>
+  <aka></aka>
+  <key_line>254</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Maryja; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.     G       D7         G    
+ Była cicha i piękna jak wiosna,
+.     C         Am          D 
+ żyła prosto zwyczajnie jak my.
+.    G       D7            G   
+ Ona Boga na świat nam przyniosła
+.     A7             
+ i na ziemi, wśród łez,
+.     D7           
+ nowe dni zajaśniały.
+---
+[C] 
+.G            C          G    
+ Matka, która wszystko rozumie,
+.Am    C                  D7 
+ sercem ogarnia każdego z nas.
+.G              C           G    
+ Matka zobaczyć dobro w nas umie,
+.Am C                D7    G  
+ O__na jest z nami w każdy czas.
+
+[V2]
+ Dzisiaj światu potrzeba dobroci,
+ by niepokój zwycięży i zło.
+ Trzeba ciepła, co życie ozłoci,
+ trzeba Boga, więc ludziom nieśmy Go,
+ tak jak Ona.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Chwała Bogu Ojcu</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>080</hymn_number>
+  <presentation>V C1 C2</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>G</key>
+  <aka>Glory to the Father</aka>
+  <key_line>30</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>--TRÓJCA ŚWIĘTA--; Uwielbienie; </theme>
+  <tempo>wolno, triumfalnie</tempo>
+  <time_sig></time_sig>
+  <lyrics>[V]
+.Am          G
+ Chwała Bogu Ojcu,
+.  Am          G
+ W Chwale Jego Syn,
+.Am           G
+ Chwała Tobie Duchu,
+.Fmaj7    G       Am
+ tworzysz jedno w Nich.
+---
+[C1]
+.          Am
+ Śpiewajmy Alleluja, Panu
+.G         G      Am
+ Alleluja, Alleluja. ( 2x }
+
+[C2]
+.Am    G   G     Am
+ Alleluja, Alleluja,
+.C     D     F     Am
+ Alleluja, o Alleluja.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

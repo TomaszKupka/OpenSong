@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Nie nam, lecz Twemu Imieniu</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>428</hymn_number>
+  <presentation>V1 V2</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>E</key>
+  <aka></aka>
+  <key_line>99</key_line>
+  <user1>Ps 115,1; ps 27</user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Uwielbienie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.E             A     E    
+ Nie nam, lecz Twemu Imieniu
+.             C#m       D B7 
+ Chwała niech będzie, o Panie
+.E        E7        A         Am6/C 
+ zawsze i wszędzie, Chwała na wieki
+.E        B7         E 
+ chwalę o Panie Imię Twe.
+---
+[V2] 
+ Pan światłem i zbawieniem moim,
+ Kogóż mam lękać się?
+ Prowadzi mnie drogą prostą do nieba,
+ Dla Niego poświęcę życie swe.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

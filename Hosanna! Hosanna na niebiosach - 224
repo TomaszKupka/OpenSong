@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Hosanna! Hosanna na niebiosach</title>
+  <author>Carl Tuttle Ludmiła Rapanowicz</author>
+  <copyright></copyright>
+  <hymn_number>224</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>G</key>
+  <aka>Hosanna in the Highest</aka>
+  <key_line>53</key_line>
+  <user1>Mt 21,9</user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Jezus: Pan/Król; Uwielbienie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.  G        D    
+ Hosanna! Hosanna!
+.  e           C   D           
+ Hosanna na niebio_sach! // (x2)
+.C        D          G 
+   sławić chcemy Cię wciąż
+.C     D        G 
+   z radością i czcią,
+.C      D          G  D/F#   Em  
+   wywyższony bądź Bo_że     nasz!
+.  C             D      G 
+ Hosanna niechaj ciągle brzmi!
+---
+[V2]
+ Chwała! Chwała!
+ Królowi Królów Chwała, cześć!// (x2)
+ sławić chcemy Cię wciąż
+ z radością i czcią,
+ wywyższony bądź Boże nasz!
+ Królowi Królów Chwała, Cześć!
+
+[V3]
+ Jezus! Jezus!
+ Jezus Królem Królów jest!// (x2)
+ sławić chcemy cię wciąż
+ z radością i czcią,
+ wywyższony bądź Boże nasz!
+ Jezus Królem Królów jest!
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

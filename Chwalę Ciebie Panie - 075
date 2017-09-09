@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Chwalę Ciebie Panie</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>075</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>A</key>
+  <aka></aka>
+  <key_line>210</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boży majestat; Uwielbienie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>
+.A             A        C#m   
+ Chwalę Ciebie Panie i uwielbiam
+.     Cm   Bm             
+ wznoszę w górę swoje ręce
+.      D/E(G)       E      
+ uwielbiając miłość Twą. //x2
+---
+ ||
+.            A                   
+ Bo wielkiś Ty, 
+.                       F#m
+ wielkie dzieła czynisz dziś, 
+.                  D   
+ nie dorówna Tobie nikt,
+.       D/E        E   
+ nie dorówna Tobie nikt.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

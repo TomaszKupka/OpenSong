@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Miłość Twa</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>388</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>D</key>
+  <aka></aka>
+  <key_line>90</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża miłość; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>
+.D      Em     A
+ Miłość Twa     
+.               F#m7 F#7    Bm7  
+ od najwyższych gór  wyższa jest.
+.            Em           Em7 
+ Wielka jest wierność Twa,
+.   A7          D      D7
+ do nieba sięga wzwyż.    
+---
+ ||
+.       Em      A
+ Miłość Twa,     
+.            F#m7 F#7      Bm7 
+ głębsza niż oce__an   bez dna.
+.            Em            Em7       A
+ Wielka jest wierność Twa,         
+.                    D    G    D
+ gdy do mnie zniżasz się.        
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

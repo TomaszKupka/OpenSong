@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Ubi caritas</title>
+  <author>J. Berthier  </author>
+  <copyright></copyright>
+  <hymn_number>681</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>F</key>
+  <aka></aka>
+  <key_line>295</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża miłość; TAIZE; </theme>
+  <tempo>T=72</tempo>
+  <time_sig></time_sig>
+  <lyrics>.F   C   Dm  F/C  Bb D G  C
+ Ubi caritas et   a____mor,
+.F   C   Dm   Gm   C   F   
+ Ubi caritas  Deus ibi est.
+---
+ ****
+ Tam gdzie miłość jest i dobroć
+ Tam gdzie miłość jest,
+ Tam mieszka Bóg.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

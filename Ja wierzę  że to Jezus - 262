@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Ja wierzę, że to Jezus</title>
+  <author>Marc Nelson</author>
+  <copyright></copyright>
+  <hymn_number>262</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>E</key>
+  <aka>I believe in Jesus</aka>
+  <key_line>57</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boże miłosierdzie; Jezus: Zbawienie; Jezus: Uzdrowienie; Jezus: Zmartwychwstanie; </theme>
+  <tempo>T=82 z przekonaniem</tempo>
+  <time_sig></time_sig>
+  <lyrics>
+.E  A             B7    
+  Ja wierzę że to Jezus,
+.E              A          B7   
+  wierzę, że On Synem Boga jest.
+.E           A        B7 
+  On zmarł i powstał, aby żyć
+.E          A             B7  
+  i za cenę śmierci życie dał.
+---
+ ||
+.A        B7         E   
+  Wierzę, że jest tu teraz
+.                E/G#  A   
+          (on tu teraz jest)
+.     B7     E     E7
+ stoi pośród nas,     
+.A           B7      E     
+  ma moc nas teraz uzdrawiać,
+.               E/G#   A  
+          (uzdrowienia moc)
+.         B7     E  
+ ma przebaczenia dar.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

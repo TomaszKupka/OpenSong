@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Abba Ojcze - Ty wyzwoliłeś nas Panie</title>
+  <author>J. Sykulski Jan Góra</author>
+  <copyright></copyright>
+  <hymn_number>001</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>C</key>
+  <aka></aka>
+  <key_line>1</key_line>
+  <user1>Jr 18,6 Rz 8.29</user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Bóg Ojciec; Kościół/wspólnota; </theme>
+  <tempo>88</tempo>
+  <time_sig>4/4</time_sig>
+  <lyrics>[V1]
+.C       F         G C 
+ Ty wyzwoliłeś nas Panie
+.  Em         F      G    
+ z kajdan i z samych siebie,
+.    E       E7        Am F 
+ a Chrystus stając się bratem
+.  C         F        G    
+ nauczył nas wołać do Ciebie.
+
+[C]
+.C F  C G    C F  C G 
+ Abba Ojcze! Abba Ojcze!
+.C  E     Am  F         C G  C    ( G   F   ) 
+ A____bba Oj__cze! Abba O___jcze! ( Oj__cze ) x2
+---
+[V2]
+ Bo Kościół jak drzewo życia
+ w wieczności zapuszcza korzenie,
+ przenika naszą codzienność
+ i pokazuje nam Ciebie.
+
+[V3]
+ Bóg hojnym dawcą jest życia
+ on wyswobodził nas z śmierci
+ i przygarniając do Siebie
+ uczynił swoimi dziećmi. 
+
+[V4]
+ Wszyscy jesteśmy braćmi,
+ jesteśmy jedną rodziną,
+ tej prawdy nic już nie zaćmi
+ i teraz jest jej godzina.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

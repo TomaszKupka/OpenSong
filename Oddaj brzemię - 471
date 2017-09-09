@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Oddaj brzemię</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>471</hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>D</key>
+  <aka>Cat your burdens</aka>
+  <key_line>109</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boże pocieszenie; Uwielbienie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.      E7          A7
+ Oddaj brzemię Jezusowi,
+.   B7     E7      B7
+ On weźmie je. //x2
+
+[C]
+.       E7           
+ Wyżej, wyżej, 
+.       A7
+ wyżej, wyżej,
+.       B7
+ wyżej, wyżej
+.            E7     A7 A#7 B7
+ Jezus coraz wyżej.//x2
+---
+[V2]
+ Przerzuć troski na Jezusa,
+ On weźmie je. //x2
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

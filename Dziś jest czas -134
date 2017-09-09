@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Dziś jest czas</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>134</hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>D</key>
+  <aka></aka>
+  <key_line>44</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Uwielbienie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.D                  G          D  
+ Dziś jest czas, by oddać Bogu chwałę
+.          D           G           A7sus4-3 
+ w tej świątyni, którą my jesteśmy sami,
+.     G            D     G               D
+ więc otwórz serce swe i zacznij wielbić Go.
+.        G          C             A7sus4 
+ Jego Chwała wnet wypełni miejsce to.
+---
+[C] 
+.       D            G   A7  D
+ Chwała Cześć - Chwalimy Go! //x2
+
+[V2]
+ Bóg przebywa w chwale swego ludu,
+ On pragnie, aby wzywać Jego Imię.
+ Więc otwórz serce swe i zacznij wielbić Go,
+ Jego Chwała wnet wypełni miejsce to.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

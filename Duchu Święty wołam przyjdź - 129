@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Duchu Święty wołam przyjdź </title>
+  <author>Ewa Szymczykowska</author>
+  <copyright></copyright>
+  <hymn_number>129</hymn_number>
+  <presentation>C V</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>D</key>
+  <aka></aka>
+  <key_line>41</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża miłość; Boże miłosierdzie; Duch Święty; </theme>
+  <tempo>T=70</tempo>
+  <time_sig></time_sig>
+  <lyrics>[C]
+.D            D4                D
+ Duchu Święty wołam przyjdź      
+.Am/D                 
+ bądź jak ogień duszy mej,
+.G/D                   
+ bądź jak ogień w ciele mym,
+.D          
+ rozpal mnie. //x2
+---
+[V] 
+.        Am7  G               D  
+ Wszechmogący Bóg jest pośród nas,
+.    Am7      G            D   
+ miłosierdzie Jego wielkie jest,
+.    Am7  G             D 
+ okazuje  dobroć  swoją dziś
+.    Am7  G                      A7sus4 
+ dla tych,   którzy chcą miłować Go.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Jak mi dobrze, że jesteś tu</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>266</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>G</key>
+  <aka></aka>
+  <key_line>61</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boży pokój; Tęsknota za Bogiem; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.G      Em         C         D        
+ Jak mi dobrze, że jesteś tu Panie.(2x)
+
+[V2]
+ Boża miłość wypełnia mnie, Panie (2x)
+
+[V3] 
+ Boży pokój wypełnia mnie, Panie (2x)
+
+---
+[C]
+.G            Em         
+ Trzymaj mnie mocno dziś,
+.C                D             
+ zawsze chcę przy Tobie być. //x2
+.G      Em7    Cmaj7  D    
+ Panie, Panie, Panie, Panie.
+.G      Em7    Cmaj7  D     G   C   G
+ Panie, Panie, Panie, Panie mój. 
+ 
+ 
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

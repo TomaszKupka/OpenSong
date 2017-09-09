@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Ofiaruję Tobie Panie mój</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>475</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>D</key>
+  <aka></aka>
+  <key_line>345</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Wyznanie wiary/zawierzenie; </theme>
+  <tempo>70</tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.D        A/C#         Bm 
+ Ofiaruję Tobie, Panie mój
+.D/A        G   D/F#        Em7  
+ Całe życie me, cały jestem Twój,
+.A7         
+ aż na wieki.
+.D        A/C#            Bm   
+ Oto moje serce, przecież wiesz,
+.D/A          G  A7sus  D   
+ Tyś miłością mą jedyną jest.
+---
+[V2]
+ Ty w ofierze Swojej Panie mój,
+ cały dajesz się, cały jestem Twój
+ aż na wieki.
+ Oto moje serce przecież wiesz.
+ Miłość Twoja niech umacnia mnie.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

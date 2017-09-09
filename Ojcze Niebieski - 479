@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Ojcze Niebieski</title>
+  <author>Gabriela Wanke Józef Kozłowski</author>
+  <copyright></copyright>
+  <hymn_number>479</hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>C</key>
+  <aka></aka>
+  <key_line>349</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża moc; Bóg Ojciec; Prośba; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.C              F               C     
+ Ojcze Niebieski który wszystko możesz,
+.F    C       Dm G7 
+ Zbaw nas ode złego.
+. C                     F       C     
+ Uwolnij od jego wpływu ludzi i miejsca,
+.       Dm                  Gsus7 
+ Wśród których przyszło nam żyć.
+---
+[C]
+ Nade wszystko
+. F     G    C    
+ Strzeż mego serca!
+. F     G    C          
+ Strzeż mego serca Panie!
+.F      G    E  Am 
+ Strzeż mego serca!
+.  F      G          (F)C 
+ O Panie, serca mego strzeż //x2
+
+[V2]
+.  D               G                 
+ Wielbię Cię Panie, bo mnie wybawiłeś
+. G    D     Em7 A 
+ Moc swą okazałeś.
+. D                   G    A      D 
+ Życie me ocaliłeś, błogosławię Cię.
+.    Em7  F#m    G    A       D  
+ Na zawsze    chcę w Tobie trwać!
+
+ Ty zaś strzeż …
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

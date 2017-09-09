@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Uwielbiam Imię Twoje Panie</title>
+  <author>Sławomir Butenko</author>
+  <copyright></copyright>
+  <hymn_number>686</hymn_number>
+  <presentation>V C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>A</key>
+  <aka></aka>
+  <key_line>309</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża radość; Uwielbienie; Dziękczynienie; Wyznanie wiary/zawierzenie; </theme>
+  <tempo>T=105</tempo>
+  <time_sig></time_sig>
+  <lyrics>[V]
+.A              D     E   
+ Uwielbiam Imię Twoje Panie.
+.  A             D       E▼
+ Wywyższam Cię i daję Ci hołd.
+.F#m                       D      
+ W przedsionku chwały Twej staję,
+.Bm                    E▼ (►)     
+ z radością śpiewam Ci pieśń. //x2
+---
+[C]
+.        A    D            E 
+ O Panie Jezu chcę wyznać, że
+.          A       D            E  
+ Ja kocham Ciebie, Ty zmieniasz mnie.
+.            A          D             E  
+ Chcę Ci dziękować dziś ze wszystkich sił,
+.          Bm                   E▼ (►)
+ Dajesz mi Siebie, bym na wieki żył.
+ 
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

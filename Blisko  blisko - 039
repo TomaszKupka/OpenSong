@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Blisko, blisko</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>039</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>Em</key>
+  <aka></aka>
+  <key_line>318</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boże miłosierdzie; Boże pocieszenie; Adoracja; Przebłaganie/grzech; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>
+.Em                   
+ Blisko, blisko, blisko
+.C              
+ jesteś Panie mój
+.Am                 
+ Blisko tak, że czuję
+.     B      Em 
+ tchnienie Twe.
+---
+ ||
+.Em                    
+ I przychodzisz do mnie,
+.C               
+ już dotykasz mnie,
+.Am                
+ Łaską przebaczenia
+.Am6             B7 
+ karmisz moją duszę.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

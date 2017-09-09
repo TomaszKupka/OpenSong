@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Świętemu Bogu</title>
+  <author>Henry Smith</author>
+  <copyright></copyright>
+  <hymn_number>615</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false">3</capo>
+  <key>F</key>
+  <aka>Give Thanks</aka>
+  <key_line>159</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boże pocieszenie; Dziękczynienie; </theme>
+  <tempo>umiarkowanie, radośnie</tempo>
+  <time_sig></time_sig>
+  <lyrics>.F             C/E         
+ Świętemu Bogu oddaj cześć!
+.     Dm             Am         
+ dziękczynną z serca śpiewaj pieśń
+.  Bb        F/A 
+ Jezusa Syna Swego
+.      Eb      Gm7 C7   (Gm/C C C/Bb
+ Bóg darował   na____m. (x2) 
+---
+ ||
+.  Am        Dm7    C/D  Dm  Gm7 
+ W Nim słaby mocnym sta__je  się,
+.       C        Bb/D C/E    F 
+ biedny niechaj  wy___zna,   że
+.Am/E   Dm7                 Eb      Gm/C              
+ bogaty jest, gdyż wszystko dał  nam Bóg! //(x2)  
+.    F  C/F   Bb/F   C/F    F
+ dał Bóg             
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

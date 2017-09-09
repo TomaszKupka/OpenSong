@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Armia Pana</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>012</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>E</key>
+  <aka></aka>
+  <key_line>11</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Ewangelizacja; </theme>
+  <tempo>marszowo</tempo>
+  <time_sig></time_sig>
+  <lyrics>
+.E  Amaj7 E         Amaj7 E  
+ Słyszę   już Armii Pana  głos,
+.F#m7   B7  E     B7   E  
+ Słyszę już Armii Pana głos.
+.E      Amaj7 E            G#7  C#m7 
+ Słyszę Armii głos, słyszę Pana głos,
+---
+ ||
+.   A  G#m7  F#m7 E   B7  
+ To i__dzie  Ar___mia Pana,
+.   A  G#m7  F#m7 E   B7  
+ To i__dzie  Ar___mia Pana,
+.   A  G#m7  F#m7 E   B7  
+ To i__dzie  Ar___mia Pana,
+.Amaj7       E 
+ uwielbiając Go.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Jezus - pokonał śmierć</title>
+  <author>Beata Musiała</author>
+  <copyright></copyright>
+  <hymn_number>295</hymn_number>
+  <presentation>V C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>D</key>
+  <aka></aka>
+  <key_line>263</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Jezus: Pan/Król; Jezus: Zmartwychwstanie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>;Intro cała zwrotka instrumentalnie
+[V]
+.  D▼    Em    
+ Jezus, Jezus,
+.  G      A4     D▼(►)       
+ Jezus, Jezus, Jezus // 2x
+---
+[C]
+.        G      A        D  
+ Pokonał śmierć, pokonał grzech
+.               G   A          D▼(►)(■)      
+ Zmartwychwstał Pan   i Królem jest // 2x
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

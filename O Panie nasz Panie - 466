@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>O Panie nasz Panie</title>
+  <author>Andrzej Uciecha</author>
+  <copyright></copyright>
+  <hymn_number>466</hymn_number>
+  <presentation>C V1 C V2 C V3 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>G</key>
+  <aka></aka>
+  <key_line>230</key_line>
+  <user1>Ps 8</user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża radość; Boża dobroć; Boża opatrzność; Boży majestat; Uwielbienie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[C] 
+.  G              
+ O Panie nasz Panie
+.    C          D   
+ przedziwne Twe Imię
+.  G        C       G  D   G
+ i ponad niebiosa majestat Twój.  //x2
+
+[V1] 
+.G          D    
+ Kimże jest człowiek,
+.   Am      Em     
+ że o nim pamiętasz,
+.F           C    
+ kim syn człowieczy,
+.   D4             D3 
+ że wciąż jesteś z nim?
+.G       D        Am           Em 
+ Przyozdobiłeś go czcią  i Swą chwałą,
+.F           C   
+ Boskim swym życiem
+.D4             D3 
+ dzielisz się z nim.
+---
+[V2] 
+ Dałeś Mu władzę
+ nad dziełami rąk swoich
+ i wszystko złożyłeś pod jego stopy.
+ Owce i bydło i dzikie zwierzęta
+ i wszystko co płynie szlakiem mórz.
+ 
+[V3]
+.G    C          D       G   
+ Usta dzieci śpiewają Ci chwałę
+.G       C          D    G 
+ usta niemowląt śpiewają Ci.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

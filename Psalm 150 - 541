@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Psalm 150</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>541</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>D</key>
+  <aka></aka>
+  <key_line>147</key_line>
+  <user1>Ps 150</user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża radość; Uwielbienie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.C         F             C          G4-3
+ Alleluja! Chwalcie Pana u świątyni bram.
+.C                 D7              F    G7
+ Chwalcie Go na niebiosach  pośród gwia___zd
+.C              F              C    G4-3
+ Chwalcie Go za wielkie dzieła Jego rąk,
+.C                   D7          F  G7
+ Chwalcie Go,  bo króluje pośród na____s.
+[C]
+.F            G Am
+  Wszystko co żyje,
+.            Am G F
+ niech sławi G_____o
+.    G Am   (1. Am G F F) (2. G7/4)
+ Alleluja. //X2
+---
+[V2]
+ Chwalcie Pana dźwiękiem rogu, chwalcie Go!
+ Chwalcie Go na cytrze i na harfie.
+ Chwalcie Go na bębnach, chwalcie tańcem.
+ Dźwięczcie struny, niech zaśpiewa flet.
+
+[V3]
+ Na cymbałach dźwięcznych chwalcie  Pana,
+ Na cymbałach brzmiących chwalcie Go.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Tyś jak skała, Tyś jak wzgórze</title>
+  <author>Andrzej Mazurek Wojciech Sówka</author>
+  <copyright></copyright>
+  <hymn_number>653</hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>D</key>
+  <aka></aka>
+  <key_line>265</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża radość; Boża opatrzność; Uwielbienie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.E              A          E
+ Tyś jak skała, Tyś jak wzgórze
+.E           B    E
+ Panie nasz, Boże nasz.
+.E               A        E
+ Tyś jak wiatr w swej naturze,
+.E                   B       E
+ Tyś jest Stwórcą wszystkich nas.
+---
+[C]
+ Łamdarej, łamdaoo,
+ Łamdarej, łamdao  // 2x
+
+[V2]
+ Światłem swym rozświetlasz drogę,
+ która prosto wiedzie nas.
+ Tam, gdzie źródło Twej miłości,
+ gdzie radośnie płynie czas.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

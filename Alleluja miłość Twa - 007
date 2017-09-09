@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Alleluja, Miłość Twa</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>007</hymn_number>
+  <presentation>V1  V2</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>A</key>
+  <aka></aka>
+  <key_line>8</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża miłość; Uwielbienie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>;BB 617 - Święty Duch przyjdź intro 2T
+[V1]
+.    A            Amaj7 
+ Alleluja, miłość Twa
+.          C#m   F#m7              E7 
+ jak blask słońca   nad nami wciąż trwa.
+.E  C#  D                     A      F#m7
+ Al_le__luja, niech biją dziś dzwony,    
+.                 Bm7          E7
+ niech wielbi Cię cały świat,  
+.      A     D   Dm   A
+ Alleluja.        
+---    
+[V2]
+ Alleluja, płynie pieśń
+ więc wraz z nami ku Niebu ją wznieś,
+ Alleluja! niech biją dziś dzwony,
+ niech wielbi Cię cały Świat, Alleluja!
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

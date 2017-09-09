@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Oddaje Ci  Panie</title>
+  <author>Tomasz Kupka Sławomir Ostaszewski</author>
+  <copyright></copyright>
+  <hymn_number>472</hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>G</key>
+  <aka></aka>
+  <key_line>232</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Przebłaganie/grzech; Wyznanie wiary/zawierzenie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.G        D/F#      Em   Em/D
+ Otwieram Ci  serce me,      
+.C          D        G     C   D
+ Tak dobrze Panie je znasz.      
+.G      D/F#      Em     Em/D
+ Oddaje Ci  życie swe,        
+.C        D            G  
+ Ty Panie miłość w nie wlej.
+---
+[C] 
+.G         D/F#      Em           
+ Oddaje Ci Panie mój żal, (grzech)
+.G         D/F#      Em       Em D
+ Oddaje Ci Panie mój ból, (lęk) 
+.G         D/F#      Em7          
+ Oddaje Ci Panie mój gniew, (strach)
+.D         C         G           
+ Oddaje Ci Panie mój bunt. (płacz)
+
+[V2]
+ Zabierz co głupie i złe,
+ weź także słabość mą.
+ W ucieczce powstrzymaj mnie,
+ ku Tobie pomóż mi iść.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

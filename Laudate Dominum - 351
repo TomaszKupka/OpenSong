@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Laudate Dominum</title>
+  <author>J. Berthier  </author>
+  <copyright></copyright>
+  <hymn_number>351</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>Am</key>
+  <aka></aka>
+  <key_line>293</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Uwielbienie; TAIZE; </theme>
+  <tempo>T=116</tempo>
+  <time_sig></time_sig>
+  <lyrics>.Am      E  D/E E    Am      G  F/G G 
+ Laudate Do_mi__num, laudate Do_mi__num
+.C     G      Am  F  d  E 
+ omnes gentes Al__le_lu_ja.
+.Am      E  D/E E    Am      G  F/G G 
+ Laudate Do_mi__num, laudate Do_mi__num
+.C     G      Am Dm E  Am 
+ omnes gentes Al_le_lu_ja.
+---
+ ***
+ Chwalcie Pana wszystkie narody Alleluja. </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

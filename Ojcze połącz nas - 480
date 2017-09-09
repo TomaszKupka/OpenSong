@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Ojcze połącz nas</title>
+  <author>Steve Hampton</author>
+  <copyright></copyright>
+  <hymn_number>480</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>G</key>
+  <aka>father make us one</aka>
+  <key_line>112</key_line>
+  <user1>Ps 133; J 17,21</user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Prośba; Kościół/wspólnota; </theme>
+  <tempo>wolno, modlitewnie</tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.G     C      D    G     C      D  
+ Ojcze połącz nas, Ojcze połącz nas,
+.    C       D/C           G/B  B7  Em  Bm
+ aby poznał świat, żeś nam Syna     dał,
+.C     D3-4-3   G  
+ Ojcze połącz   nas.
+---
+[V2] 
+ Jezu połącz nas, Jezu połącz nas,
+ aby poznał świat, że zbawiłeś  nas,
+ Jezu połącz nas.
+
+[V3] 
+ Duchu połącz nas, Duchu połącz nas,
+ aby poznał świat,
+ że ty mieszkasz w nas,
+ Duchu połącz nas.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

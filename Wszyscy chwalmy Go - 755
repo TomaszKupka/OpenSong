@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Wszyscy chwalmy Go</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>755</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>C</key>
+  <aka></aka>
+  <key_line>186</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Uwielbienie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>.G7sus4  Cmaj7   Em7   F6    Fdim 
+ Wszyscy chwalmy Go, chwalmy Go.
+.        Cmaj7          A7/C#      Dm9   G7sus4 
+ Razem wznieśmy głos do nieba  i chwalmy Go.
+.        Cmaj7   Em7   F6    Fdim 
+ Wszyscy chwalmy Go, chwalmy Go.
+.        Cmaj7          G7sus4           Fmaj7    Cmaj7
+ Razem wznieśmy głos do nieba  i chwalmy Go.  
+     
+   </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

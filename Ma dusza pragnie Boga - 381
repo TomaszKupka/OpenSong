@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Ma dusza pragnie Boga</title>
+  <author>J. Berthier</author>
+  <copyright></copyright>
+  <hymn_number>381</hymn_number>
+  <presentation>V1 V2</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>Em</key>
+  <aka></aka>
+  <key_line>88</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boży pokój; Boże pocieszenie; Tęsknota za Bogiem; TAIZE; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.B7  Em    C       G  D 
+ Ma  dusza pragnie Bo_ga,
+.Em    Am7      B7  
+ chce spocząć w Nim,
+.      Em   C  D  G 
+ z tęsknoty ca_ła drży.
+.  Em  C     G   D 
+ Wstań duszo mo__ja,
+.Em  Am7 B7   
+ oto Oblubieniec
+.Em   Am7  B4-3 Em  
+  oto Pan  Bóg  twój.
+---
+[V2] 
+ Ty dasz mi pokój serca Panie mój,
+ bo Tyś zbawieniem mym.
+ Tak w Tobie znajdzie
+ pokój dusza moja
+ i uciszy się.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

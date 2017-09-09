@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Czemuś smutna duszo ma</title>
+  <author>Frank Berrios Tom Brooks Wojciech Rubin</author>
+  <copyright></copyright>
+  <hymn_number>087</hymn_number>
+  <presentation>C V</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>F</key>
+  <aka>Wy so down cast ?</aka>
+  <key_line>34</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boże pocieszenie; Uwielbienie; </theme>
+  <tempo>T=88</tempo>
+  <time_sig></time_sig>
+  <lyrics>[C]
+.F                   F/A 
+ Czemuś smutna duszo ma
+.Bb7+          Am7    Dm7
+ Pan nadzieją  twą,     
+.Gm7           Am7    Dm7
+ Pan nadzieją  twą,     
+.Gm7/4         Gm7/C 
+ Pan nadzieją  twą.
+.C13 F                   F/A 
+ O   czemuś smutna duszo ma,
+.Bb7+         Am7 Dm7   Gm7     Bb/C 
+ Pan nadzieją twą     uwielbiaj Go
+.C     Bb   F/A    Gm7    C7sus4
+ duszo ma.  //  x 2   
+---       
+[V] 
+.Dm7     C7         Gm7   F/Bb    F/C  C 
+ Wielbię Go, On rozjaśnia me   oblicze,
+.Gm9     C7         Gm7  C11   F 
+ Wielbię Go, On podnosi  głowę mą,
+.Dm7     C        Gm7    F/Bb   C    A
+ Wielbię Go, On rozjaśnia me oblicze,
+.Dm       G/B          C7sus4 
+ nie zawstydzę się już nie.
+.C13 F        
+ O   czemuś.....
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

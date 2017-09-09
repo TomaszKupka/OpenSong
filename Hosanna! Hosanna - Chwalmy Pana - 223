@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Hosanna! Hosanna - Chwalmy Pana</title>
+  <author>Todd Pettygrove Ludmiła Rapanowicz</author>
+  <copyright></copyright>
+  <hymn_number>223</hymn_number>
+  <presentation>V C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>G</key>
+  <aka>Chwalmy Pana, pieśń niech brzmi</aka>
+  <key_line>52</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Jezus: Pan/Król; Uwielbienie; </theme>
+  <tempo>T=70</tempo>
+  <time_sig></time_sig>
+  <lyrics>[V]
+.   G        F/G 
+ Hosanna! Hosanna!
+ 
+ (Wielbimy Cię!)
+ Chwalimy Cię!)
+.    C   D      G          
+ Królowi Królów cześć!// x2
+---
+[C]
+.G       Bm/F#             C    C/D
+ Chwalmy Pana, śpiew niech brzmi,   
+.      G        Bm/F#       C    C/D
+ zmartwychwstał Król i żyje dziś.  
+.    G         D/F#   G/E   D    
+ O chwalmy Go, najwyż_szy   jest i
+.C/A G/B       Am/C  A/C#    C/D   D
+ go__dzien     wszel_kiej    czci.   
+.  G           D/F#     G/E  D    
+ O chwalmy Go, najwyż___szy  jest i
+.C         D           G 
+ godzien   wszelkiej   czci.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Wielbię Cię</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>749</hymn_number>
+  <presentation>C V1 C V2</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>C</key>
+  <aka></aka>
+  <key_line>269</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Adoracja; Uwielbienie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[C] 
+.C Fsus2 C    G       Am 
+ Wielbię Cię, Wielbię Cię,
+.Am   G    F    C/G  G      C       
+ Wi__elbię Cię, Wie____lbię Cię. //2x
+
+[V1]
+.C        G         Fsus2      C   
+ Jesteśmy tutaj, by oddać Panu cześć.
+.Am          Em   
+ Z anielskim chórem
+.     F                 G4-3 
+ uwielbienie chcemy wznieść.
+.C         G     Fsus2         C 
+ Śpiewać Hosanna Królowi, Panu Chwał
+.Am               Em         
+  A więc wszyscy razem
+.         F           G4-3 
+ wznieśmy głosy nucąc Mu.
+---
+[V2] 
+ My Twoje dzieci szukamy twarzy Twej
+ Przychodzimy śmiało
+ przed Twój tron boś łaskaw jest.
+ By miłość wyznać
+ i wsłuchać się w Twój głos.
+ Jesteś naszym Ojcem,
+ wiec radośnie serca brzmią.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

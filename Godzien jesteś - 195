@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Godzien jesteś</title>
+  <author>Micheal Mills</author>
+  <copyright></copyright>
+  <hymn_number>195</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>G</key>
+  <aka>Thou art worthy</aka>
+  <key_line>48</key_line>
+  <user1>Ap 4,11</user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Jezus: Krzyż/Śmierć; Jezus: Zbawienie; Uwielbienie; </theme>
+  <tempo>powoli, z namaszceniem</tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.G       G7/B    C       C#dim 
+ Godzien jesteś, godzien jesteś
+.G/D   Em7    Am7   G/B C D7
+ Panie i Boże nasz!
+.G       G7/B    C       C#dim 
+ Godzien jesteś, przyjąć chwałę,
+.G/D    D9      G   G/C G D/F# Em
+ chwałę cześć i moc.
+ ||
+.  Am7       D9               
+ Ponieważ Ty wszystko
+.    G               
+ stworzyłeś w swej mocy,
+.D9                     G  
+ wszystko stworzyłeś Ty sam.
+.         G7/B      C        C#dim 
+ i z woli Twojej zostało stworzone,
+.G/D     D9           G      C/G  G
+ godzien jesteś wziąć cześć.  
+---
+[V2] 
+ Godzien jesteś, godzien jesteś
+ Zbawco, Baranku nasz.
+ Godzien jesteś, przyjąć chwałę,
+ chwałę, mądrość i moc.
+ ||
+ Ponieważ zostałeś zabity za lud Twój
+ wszystkich zbawiłeś Ty sam
+ i przez krew Twoją nabyłeś ich Bogu,
+ godzien jesteś wziąć cześć.
+ 
+[V3] 
+ Godzien jesteś, godzien jesteś
+ Panie i Boże nasz,
+ godzien jesteś, godzien jesteś,
+ Zbawco, Baranku nasz.
+ ||
+ Odebrać dziś chwałę
+ i mądrość i wdzięczność,
+ błogosławieństwo i moc.
+ Bóg nasz niech przyjmie
+ potęgę na wieki, Amen, Amen.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

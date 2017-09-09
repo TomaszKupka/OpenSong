@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Bogu Jedynemu</title>
+  <author>Krzysztof Szczypuła</author>
+  <copyright></copyright>
+  <hymn_number>042</hymn_number>
+  <presentation>C V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>G</key>
+  <aka></aka>
+  <key_line>314</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Jezus: Pan/Król; Uwielbienie; </theme>
+  <tempo>115</tempo>
+  <time_sig></time_sig>
+  <lyrics>;BB 1T intro po synkopowanym Am ▼  D2/F#
+
+[C]
+. G        Em7 Am7    D2/F#
+ Bogu jedynemu   Jezusowi
+.   G       Em7 Am7 D2/F#
+ chwała i cześć.
+. G             Em7 Am7  D2/F#
+ Panu Wszechmocnemu Jezusowi
+.   G     Em7 Am7 ▼(►)(■)   D2/F#
+ chwała cześć     na wieki. //2x
+
+[V1]
+.B7              Em7
+ On uczynił niebiosa,
+.    Am7            Am7/B C ▼ D
+ rozpostarł ziemi krąg.
+.B7             Em7
+   Króluje nad nami
+.           Am7       Am7/B
+ Wznieśmy więc ręce swe,
+.             C         Em9
+ przyjdźmy przed jego tron
+.       F                   D7 ▼ (►)
+ //śpiewając ze wszystkich sił//2x
+---
+[V2]
+.B7                 Em7
+  On jest Królem Chwały
+.          Am7          Am7/B C ▼ D
+ świat podnóżkiem Jego stóp
+.B7              Em7
+    Odziany w majestat
+.          Am7     Am7/B
+ Przed Nim uniżmy się
+.               Em9
+ podejdźmy w pokorze
+.       F          D7  ▼ (►)
+ //By złożyć jemu hołd //2x</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

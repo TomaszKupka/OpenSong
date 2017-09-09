@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Jezus - wychwalajmy Go</title>
+  <author>Beata Musiała</author>
+  <copyright></copyright>
+  <hymn_number>297</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>A</key>
+  <aka></aka>
+  <key_line>227</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża radość; Boża moc; Jezus: Imię; Adoracja; Uwielbienie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.A A2   A A2  Dmaj7             
+ Jezus, Jezus      wychwalajmy Go
+.                              A2     
+ wywyższajmy Jego Święte Imię Amen.//x2
+.Em  G A  Em     G  A Em     G A Em     G A 
+ Alleluja,   Alleluja,   Alleluja,  Alleluja.
+---
+[V2] 
+ Jezus, Jezus radujmy się
+ Pan ma wielką moc Amen.
+ Alleluja, Alleluja ,Alleluja, Alleluja.
+
+[V3] 
+ Jezus , Jezus On przychodzi tu,
+ On zwycięzcą jest Amen.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

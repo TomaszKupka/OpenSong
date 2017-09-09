@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Jak Dawid</title>
+  <author>Martin Nystrom</author>
+  <copyright></copyright>
+  <hymn_number>263</hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>Am</key>
+  <aka></aka>
+  <key_line>58</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża radość; Uwielbienie; Wyznanie wiary/zawierzenie; Żydowskie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.    Am                Em         
+ Jak Dawid kiedy przed Bogiem był,
+.Am              Em          
+ będę tańczyć ze wszystkich sił
+.      G            Am  Em
+ przed Panem Królem mym.    
+.    Am              Em          
+ Jak Miriam grała na bębnie swym,
+.Am              Em          
+ będę klaskać ze wszystkich sił
+.      G            Am  
+ przed Panem Królem mym.
+---
+[C] 
+.    Fmaj7          G     
+ Pokłońmy się przed Bogiem,
+.   Fmaj7 G    Am   
+ oddajmy  Jemu cześć,
+.    Fmaj7      G    
+ wielbijmy Imię Jezus,
+.    Fmaj7 G    Am   
+ śpiewajmy Panu pieśń!
+
+[V2]
+ Jak Judejczycy przed bitwą swą
+ zawierzmy Panu i chwalmy Go,
+ pobity będzie wróg.
+ Jak Jozue wznieśmy bojową pieśń,
+ oddajmy Panu chwałę cześć,
+ a wróg ucieknie wnet.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

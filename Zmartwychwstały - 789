@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Zmartwychwstały</title>
+  <author>Tomasz Kupka Grażyna Nowakowska</author>
+  <copyright></copyright>
+  <hymn_number>789</hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>Am</key>
+  <aka></aka>
+  <key_line>196</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Jezus: Zmartwychwstanie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.Am     
+ Przyszedł
+.                         G 
+ przez zamknięte strachem drzwi,
+.Dm     F/E                E    
+ rany poddaje dotknięciu Tomasza.
+.Am             F        Dm      E
+ Tańczy, tańczy radość w sercach uczniów.
+---
+[C] 
+.   Am     G       F Am 
+ To On! To Pan! Zbawiciel,
+.G         Am        
+ żyje, zmartwychwstał!
+.Am    Em    G  Am 
+ Jezus pełen blasku
+.F               E  
+ pokój Swój daje nam.
+.Am G C Am  F       E 
+ Alle_luja,   Alleluja
+.F  G Am    Bb E   Am 
+ Alle_luja, Alleluja
+ 
+[V2]
+ Dzisiaj
+ jest czas twojej wiary,
+ teraz, teraz dotyka cię Miłość.
+ Co dnia w twoim sercu
+ Duch woła "przyjdź".
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Wesołą nowinę</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>1024</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Kolędy; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.D      G       A7          G  D 
+ Wesołą nowinę, bracia, słuchajcie.
+.D         G        A7       G  D   
+ Niebieską Dziecinę ze mną witajcie.
+.D        G      Em
+ Jak miła to nowina,
+.A7             D
+ mów gdzie jest ta Dziecina,
+.Bm D7 B7  Em       A7      D
+ byśmy tam pobieżeli i ujrzeli.
+--- 
+[V2]
+ Bogu chwałę głoszą na wysokości,
+ Pokój ludziom głoszą Duchy światłości.
+ Jak miła to nowina, 
+ mów gdzie jest ta Dziecina,
+ byśmy tam pobiezeli i ujrzeli.
+ 
+[V3]
+ Panna nam powiła Boskie Dzięciątko,
+ Pokłonem uczciła to Niemowlątko.
+ Jak miła to nowina, 
+ mów gdzie jest ta Dziecina,
+ byśmy tam pobiezeli i ujrzeli.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

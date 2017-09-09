@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Kocham więc nie muszę się bać</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>323</hymn_number>
+  <presentation>C V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>H</key>
+  <aka></aka>
+  <key_line>84</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża miłość; Boży pokój; Boża opatrzność; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[C]
+.B11                 A  E 
+ Jezus, Jezus, Jezus O! O!
+.B11                A  E 
+ Jezus, Jezus, Jezus O! O!
+---
+[V1] 
+.B11                         
+ Kocham więc nie muszę się bać
+.A                 
+ zabierz mój strach,
+.E                 
+ zabierz mój strach,
+.              B11   
+ zabierz mój strach.
+
+[V2] 
+ Jezus mówi, że Miłość ta
+ zabiera strach. (3x)
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

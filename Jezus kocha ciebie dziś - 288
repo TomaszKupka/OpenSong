@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Jezus kocha ciebie dziś</title>
+  <author>Elżbieta Zackiewicz</author>
+  <copyright></copyright>
+  <hymn_number>288</hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>G</key>
+  <aka></aka>
+  <key_line>78</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża miłość; Jezus: Zbawienie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.G           D         
+ Jezus kocha ciebie dziś,
+.C          D   
+  czy o tym wiesz?
+.G            D              
+ On na krzyżu zniszczył śmierć,
+.C         D 
+  bo kocha cię.
+---
+[C]
+.B7           Em       
+ Otwórz tylko serce swe
+.C            D    
+  i pozwól Mu wejść.
+.G     B7    Em          C    D
+ Jezus kocha ciebie dziś,       
+.         G     C   D   G  C  D   C   D
+ On kocha cię.  
+                        
+[V2] 
+ Wszystkie troski oddaj Mu,
+ On weźmie je.
+ Rozraduje serce Twe,
+ bo kocha cię.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

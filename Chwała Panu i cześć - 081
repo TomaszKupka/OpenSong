@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Chwała Panu i cześć</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>081</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>D</key>
+  <aka></aka>
+  <key_line>32</key_line>
+  <user1>Ps 134</user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Uwielbienie; Prośba; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.D      G      D     G
+ Chwała Panu i Cześć   
+.   D          G           D     G
+ Od wszystkich wiernych Mu sług,   
+.D            G  
+ wznieśmy swe ręce
+.   D       G    
+ ku miejscu Świętemu
+.  D      A7sus4  D 
+ i cześć  oddajmy Mu.
+---
+[V2]
+ Panie błogosław nam,
+ wytrwamy tam gdzie Twój Dom.
+ Ty - co stworzyłeś i Niebo i Ziemię
+ Ty - Panie błogosław nam!
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

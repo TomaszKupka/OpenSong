@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Zaśpiewajmy kolędę Jezusowi</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>1027</hymn_number>
+  <presentation>C V1 C V2 C V3 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>D</key>
+  <aka></aka>
+  <key_line>312</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Kolędy; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[C]
+.       C       F        G     C
+ Zaśpiewajmy kolędę Jezusowi dziś,
+.           F           G     C    G
+ niech kolęduje z nami cała ziemia.
+.       C       F        G     Am
+ Zaśpiewajmy kolędę Jezusowi dziś,
+.           F           G      C
+ niech kolęduje z nami cały świat.
+ 
+[V1]
+.C                     Em         F    G
+ Dziś w stajence mały Jezus się urodził
+.     C            Em           F    G
+ i pobożnie swoje małe rączki złożył.
+.  E                         Am   F
+ Chociaż jest maleńki błogosławi już
+.            C           G    C Gsus
+ wszystkim którzy zaśpiewali Mu.
+---
+[V2]
+ W takt kolędy wieją wiatry,
+ szumią drzewa,
+ cały świat kolędy Jezusowi śpiewa.
+ Niech kolędy nuta
+ mocno w świcie brzmi,
+ maleńkiemu Jezusowi dziś.
+[V3]
+ In excelsis Deo -
+ śpiewajmy do Pana,
+ a śpiewając - Gloria -
+ zegnijmy kolana.
+ Wielka radość dzisiaj
+ ogarnęła nas,
+ zaśpiewajmy Bogu jeszcze raz.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

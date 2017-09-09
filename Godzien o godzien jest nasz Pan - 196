@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Godzien o godzien jest nasz Pan</title>
+  <author>Mark Kinzer  AXM</author>
+  <copyright></copyright>
+  <hymn_number>196</hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>D</key>
+  <aka>Worthy, o worthy are You Lord</aka>
+  <key_line>49</key_line>
+  <user1>Ap 4,11; 7,12</user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Jezus: Pan/Król; Uwielbienie; </theme>
+  <tempo>umiarkowanie, płynnie</tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.D         G                 D 
+ Godzien o godzien jest nasz Pan
+.               Em         
+ godzien aby przyjąć cześć
+.  A           D    (A) (D7) 
+ i uwielbienia pieśń. // x2
+
+[V2] 
+.D     A         G           D    
+ Panie mój , Tyś droższy nad srebro.
+.      A          G     A4-3 
+ Ponad złoto cenniejszy skarb.
+.D          A         G          D
+ Czym przed Tobą jest piękno diamentów,
+.     Em          F#m   G    A4-3  D  
+ czyż może Ci coś doró__wnać Panie mój.
+---
+[C]
+.          G    A  
+ Śpiewajmy Alleluja
+.F#m           Bm    
+ przed Baranka tronem,
+.     Em          A    
+ wielbijmy Go i czcijmy,
+.    D          D7  
+ śpiewajmy Panu psalm.
+.G   A    F#m         Bm   
+ Alleluja chwała Barankowi,
+.     Em            A    
+ On w walce jest zwycięzcą,
+.      Em    A4-3    D  
+ Bóg z nami, Król i  Pan.
+ 
+ 
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

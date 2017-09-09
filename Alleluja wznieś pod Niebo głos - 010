@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Alleluja, wznieś pod Niebo głos</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>010</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>G</key>
+  <aka></aka>
+  <key_line>7</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Eucharystyczne; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>.E                          B
+ Alleluja, wznieś pod niebo głos
+.               A    F#m        E
+ Pan dał chleba moc,      Alleluja.
+.E                          B
+ Alleluja, wznieś pod niebo głos
+.               A    F#m        E
+ Pan dał chleba moc,      Alleluja.
+
+
+ ||
+---
+.A               B
+  Chrystus Pan komunią dla nas
+.E         G#7   C#m
+  co dzień staje się,
+.      A            B    E  E7
+ On rozrywa grzechu pęta złe.
+.A          B
+ Cóż uczyni mi człowiek,
+.E     G#7     C#m
+ kiedy ze  mną Pan.
+.     F#m           F#   B7
+ On podnosi, podtrzymuje mnie.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

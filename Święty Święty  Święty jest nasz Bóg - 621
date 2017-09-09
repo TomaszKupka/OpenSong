@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Święty, Święty, Święty jest nasz Bóg</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>621</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>G</key>
+  <aka>Holy, holy, holy is the Lord</aka>
+  <key_line>161</key_line>
+  <user1>Ap 4,8-12</user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża świętość; Uwielbienie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.G       Em7     Bm7              
+ Święty, Święty, Święty jest nasz Bóg,
+.Cmaj7            Am7         D7sus4-3 
+ Święty jest nasz Bóg wszechmogący./2x
+.      Cmaj7      D/C      G/B       D#dim 
+ Który był, który jest   i który przychodzi.
+.Em7     G/D     Cmaj7  D7        G  
+ Święty, Święty, Święty jest nasz Bóg.
+---
+[V2] 
+ Godzien, godzien, godzien jest Baranek,
+ godzien jest Baranek zabity.
+ Który był, który jest i który przychodzi
+ Godzien, godzien, godzien jest Baranek.
+
+[V3] 
+ Jezus, Jezus, Jezus Panem jest,
+ Jezus Bogiem jest Wszechmogącym.
+ Który był, który jest i który przychodzi.
+ Jezus, Jezus, Jezu Panem jest.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

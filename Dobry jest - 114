@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Dobry jest  nasz Bóg wszechmocny</title>
+  <author>Graham Kendrick</author>
+  <copyright></copyright>
+  <hymn_number>114</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>Em</key>
+  <aka>God is Good</aka>
+  <key_line>36</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża miłość; Boża radość; Boża opatrzność; </theme>
+  <tempo>T=130</tempo>
+  <time_sig></time_sig>
+  <lyrics>[C] 
+.Em  D Em   Bm                 Am    
+ Dobry jest    nasz Bóg wszechmocny,
+.Em  D Em   C            D 
+ Dobry jest    wielbimy Go.
+.Em  D Em   Bm            Am     
+ Dobry jest    z całą pewnością,
+.Em  D Em   D             Em 
+ Dobry jest    wierzymy w to.
+---
+[V]
+.Am                  Em        
+ Gdy myślę o tym, że kocha mnie
+.         B7        
+ serce chwałą brzmi,
+.         Em Bm Em B7 
+ chcę z radości tańczyć.
+.Am                        
+ Bóg w sercu swym dla mnie
+.Em                   F#7 
+ miejsce ma, więc z ufnością
+.        B    B7    B7/5+    B7
+ biegnę Doń.                 
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

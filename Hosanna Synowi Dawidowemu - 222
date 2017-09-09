@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Hosanna Synowi Dawidowemu</title>
+  <author>Piotr Chojnacki</author>
+  <copyright></copyright>
+  <hymn_number>222</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>E</key>
+  <aka></aka>
+  <key_line>54</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Uwielbienie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>.E         G#7        C#m  C#m/B
+ Hosanna Synowi Dawidowemu, 
+.A         B7               A   E  
+ który przychodzi w imieniu Pańskim.
+.B E     G#7    C#m C#m/B 
+ Hosanna na wysoko__ściach.
+.     A         B           E 
+ Boży lud niech zawsze Pana czci!
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

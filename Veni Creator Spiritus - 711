@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Veni Creator Spiritus</title>
+  <author>J. Berthier  </author>
+  <copyright></copyright>
+  <hymn_number>711</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>Cm</key>
+  <aka></aka>
+  <key_line>300</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Duch Święty; TAIZE; </theme>
+  <tempo>T=100</tempo>
+  <time_sig></time_sig>
+  <lyrics>.Cm   Fm6 G    Cm   Fm6 G  
+ Veni Creator, Veni Creator,
+.Cm   Fm6 G Cm      Fm6   G
+ Veni Cre_a_tor Spiritus.  
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

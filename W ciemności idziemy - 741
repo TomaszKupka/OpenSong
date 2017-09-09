@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>W ciemności idziemy</title>
+  <author>J. Berthier  </author>
+  <copyright></copyright>
+  <hymn_number>741</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>Dm</key>
+  <aka>De noche</aka>
+  <key_line>298</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Tęsknota za Bogiem; TAIZE; </theme>
+  <tempo>T=60</tempo>
+  <time_sig></time_sig>
+  <lyrics>.A     Dm                   Bb    
+ W ciemności idziemy, w ciemności,
+.   Am        Bmaj7  Gm A4-3 
+ Do źródła Twojego   życia.
+.Dm        C           F   A  
+ Tylko pragnienie jest światłem,
+.A        Bb/A         A     
+ Tylko pragnienie jest światłem.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

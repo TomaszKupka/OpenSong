@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Jak ożywczy deszcz</title>
+  <author>Sławomir Butenko</author>
+  <copyright></copyright>
+  <hymn_number>267</hymn_number>
+  <presentation>V C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>G</key>
+  <aka></aka>
+  <key_line>315</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Duch Święty; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V]
+.G     C           
+ Jak ożywczy deszcz
+.Em7      D          
+ Duchu Święty przyjdź
+.G       C          
+ Dotknij naszych serc
+.Em7    D         
+ Rozpal ognia żar. //x2
+---
+[C] 
+.Am7            Bm7 
+ Dziś przenikaj nas
+.Cmaj7           Bm7 
+ Tchnieniem mocy Swej
+.Am7               Bm7 
+ Bądź nam światłem dnia
+.Cmaj7      (Bm7)(G)
+ I nadzieją serc. //x2
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

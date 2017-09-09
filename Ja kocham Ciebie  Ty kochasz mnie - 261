@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Ja kocham Ciebie, Ty kochasz mnie</title>
+  <author>Krzysztof Szczypuła</author>
+  <copyright></copyright>
+  <hymn_number>261</hymn_number>
+  <presentation>V C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>G</key>
+  <aka></aka>
+  <key_line>326</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża miłość; Boża radość; Uwielbienie; </theme>
+  <tempo>130</tempo>
+  <time_sig></time_sig>
+  <lyrics>[V]
+.G         C      D    
+ Alleluja, Alleluja /x2
+.G         D        C          D 
+ Ja kocham Ciebie , Ty kochasz mnie
+.G           D   
+ Ty jesteś w niebie
+.  C                 D 
+ i o mnie troszczysz się.
+.G        D            C             D 
+ Dałeś mi życie, dałeś radość, pokój Swój
+.G             D   
+ Dlatego tylko Ciebie
+.     C            D  
+ chcę wielbić Boże mój.
+---
+[C] 
+.     G         D   
+ Alleluja, Alleluja,
+.C                     D  
+ śpiewaj ze wszystkich sił.
+.     G         D   
+ Alleluja, Alleluja,
+.      C             D 
+ przed Panem zatańcz dziś.
+.     G         D   
+ Alleluja, Alleluja,
+.C                   D 
+ wznieś do góry ręce swe.
+.     G         D    C     D     G 
+ Alleluja, Alleluja, Jezus kocha Cię.
+ 
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

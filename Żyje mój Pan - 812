@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Żyje mój Pan</title>
+  <author>Adam Sawicki</author>
+  <copyright></copyright>
+  <hymn_number>812</hymn_number>
+  <presentation>C V1 C V2 C V1 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>E</key>
+  <aka></aka>
+  <key_line>325</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Jezus: Zmartwychwstanie; </theme>
+  <tempo>135</tempo>
+  <time_sig></time_sig>
+  <lyrics>[C]                                        
+.E6       E    A/E      E7 
+ Żyje mój Pan (żyje mój Pan)
+.E6       E    A/E      E7 
+ Żyje mój Pan (żyje mój Pan)
+.E6       E    A/E      E7 
+ Żyje mój Pan (żyje mój Pan)
+.E6       H7               
+ Na wieki już (na wieki już)
+ ||
+.     C#m         A  
+ Żyje Pan   (Żyje Pan)
+.         E    A/E       E7    E6
+ na wieki już (na wieki już)   
+.       B       A 
+ A Imię Jego (Jego)
+.E     A/E     E7     E6
+ Jezus.            
+---   
+[V1]
+.     C#m   G#m7   A      E  
+ Jemu będę śpiewał   nową pieśń
+.       C#m     G#m 
+ Bo mam życie w Nim
+.F#                   B7 
+ Innym ludziom głosić chcę.
+
+[V2]
+.E     A          E    A
+ Nigdy więcej nie umrę 
+.E     A          E   A
+ Nigdy więcej nie zginę 
+.   A                 E     A    E  A
+ Bo Pan, Bo Pan umarł za mnie        
+.E     A          E    A
+ Nigdy więcej nie będę  
+.     E    A        E      A
+ W niewoli własnego grzechu  
+.   B        A         E    
+ Bo Pan, bo  Pan mnie uwolnił.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

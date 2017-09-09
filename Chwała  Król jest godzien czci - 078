@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Chwała, Król jest godzien czci</title>
+  <author>Tom McLain Piotr Chojnacki</author>
+  <copyright></copyright>
+  <hymn_number>078</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>C</key>
+  <aka>Glory, Glory to the King</aka>
+  <key_line>25</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Jezus: Imię; Jezus: Pan/Król; Uwielbienie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[C]
+.F/C C    G/C C   F                 G 
+ Chwała,  Chwała  Król jest godzien czci,
+.F/C C    G/C C  Dm        F/G     C 
+ Chwała,  Chwała Król jest godzien czci.
+---
+[v]
+.Am                  Em   
+ Kto jest tym Królem Chwały?
+.    F      G        C  
+ Tym Królem Chrystus Pan.
+.Em/B   Am                    
+ Wywyższony ponad wszystko
+.   Em
+ na ziemi jest,
+.     F           G    G#
+ Jego Imię głośno brzmi.  
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

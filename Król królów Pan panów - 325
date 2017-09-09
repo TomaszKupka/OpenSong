@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Król królów, Pan panów</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>325</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>Em</key>
+  <aka></aka>
+  <key_line>85</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boży pokój; Jezus: Pan/Król; Uwielbienie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>.Em          Em/B     
+ Król Królów Pan Panów
+.B7/D#   B7          Em    Em/B
+ Chwała!       Alleluja! //x2
+---
+.Em     Em/B       
+ Jezus Książe pokoju
+.H7/Dis   B7         Em      Em/B 
+ Chwała!       Alleluja! //x2
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Oto stoję u drzwi</title>
+  <author>Grzegorz Grochowski</author>
+  <copyright></copyright>
+  <hymn_number>486</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>Dm</key>
+  <aka></aka>
+  <key_line>118</key_line>
+  <user1>Ap ,20</user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Wyznanie wiary/zawierzenie; Ewangelizacja; </theme>
+  <tempo>wolno, z namaszczeniem</tempo>
+  <time_sig></time_sig>
+  <lyrics>.Am  Dm      C         Dm   Am         
+ Oto stoję u drzwi i koła___czę,  //(x2)
+.F  C   F                C 
+ Je_śli kto posłyszy Mój głos
+.         Dm    
+ i drzwi otworzy,
+.Dm       Am  
+ wejdę do niego 
+.  F      Gsus2    Dm            F G    
+ i będę z nim   wieczerzał, a on z_e Mną.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

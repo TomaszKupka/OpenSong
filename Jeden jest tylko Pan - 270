@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Jeden jest tylko Pan</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>270</hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>Em</key>
+  <aka></aka>
+  <key_line>217</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Uwielbienie; Eucharystyczne; Kościół/wspólnota; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.Em               Am7                   
+ Jeden jest tylko Pan, 
+.                Em
+ tutaj jest Jego dom.
+.Em                 
+ Klęknijcie wszyscy, 
+.D
+ którzy tu wchodzicie
+.Bm              Em 
+ i razem chwalmy Go.
+
+[V2]
+ On mieszka z nami tu
+ by przyjacielem być.
+ Składamy dzięki
+ za miłość i dary, 
+ którymi łączy nas
+---
+[C]
+.Em                Am  
+ Miejsce to wybrał Pan,
+.              Em                     
+ aby wysłuchać nas. 
+.Em
+ Śpiewajmy wszyscy,
+.D               
+ słudzy w Jego domu,
+.Bm           Em   
+ Bogu oddajmy cześć.
+ 
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

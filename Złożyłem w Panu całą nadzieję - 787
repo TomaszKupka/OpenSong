@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Złożyłem w Panu całą nadzieję</title>
+  <author>Iwona Piekarska</author>
+  <copyright>(C) 1995 Wydawnictwo Haleeis, Wrocław</copyright>
+  <hymn_number>787</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>G</key>
+  <aka></aka>
+  <key_line>307</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża dobroć; Boża opatrzność; Wyznanie wiary/zawierzenie; </theme>
+  <tempo>T=130</tempo>
+  <time_sig></time_sig>
+  <lyrics>[C] 
+.G                      C   G/D 
+ Złożyłem w Panu całą nadzieję,
+.   G                   C   G/D 
+ Złożyłem w Panu całą nadzieję
+.    Am           C  D C  D
+ On schylił się nade mną   
+.     Am             C D7 
+ i wysłuchał wołania mego. //x2
+---
+[V]
+.  C            D7     G  
+ Wydobył mnie z dołu zagłady
+.  C              D7   G   
+ wydobył mnie z kałuży błota,
+.  Em          D/F#     G  
+ a stopy me postawił na skale
+.   Em     D/F# G   
+ i umocnił moje kroki.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

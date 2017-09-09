@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Panie mój przychodzę dziś</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>518</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>G</key>
+  <aka></aka>
+  <key_line>127</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Adoracja; Uwielbienie; Wyznanie wiary/zawierzenie; </theme>
+  <tempo>T=80</tempo>
+  <time_sig></time_sig>
+  <lyrics>.G                    C  
+ Panie mój przychodzę dziś,
+.      G            C   
+ serce me skruszone przyjm.
+.         G         Em   
+ Skłaniam się przed świętym
+.       Am       D
+ tronem Twym.     
+.        G         C  
+ Wznoszę ręce moje wzwyż,
+.       B7         Em 
+ miłość mą wyznaję Ci.
+ ||
+---
+. Am                 D    
+ Uwielbiam  Ciebie w Duchu,
+. Am                  D 
+ uwielbiam w prawdzie Cię,
+.      Am        D    
+ życie me oddaję Tobie,
+.       G 
+ uświęć je.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

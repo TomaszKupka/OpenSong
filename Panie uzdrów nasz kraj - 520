@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Panie uzdrów nasz kraj</title>
+  <author>Graham Kendrick</author>
+  <copyright></copyright>
+  <hymn_number>520</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>E</key>
+  <aka>Lord have mercy</aka>
+  <key_line>131</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Jezus: Uzdrowienie; Prośba; Przebłaganie/grzech; </theme>
+  <tempo>T=88 wolno, z namaszczeniem</tempo>
+  <time_sig></time_sig>
+  <lyrics>.E     G#m         A      E    G#m    A
+ Panie uzdrów nasz kraj,  Boże zmiłuj się.
+.  C#m        B7       Cdim     C#m 
+ W ogniu swym przyjdź, oczyść i zmień.
+.Amaj7     G#m  F#m               B7    
+ Kornie błagamy dziś przed tronem Twym, 
+.      C         Dsus4-3        E 
+ Panie nasz  nad nami    zmiłuj się,
+.    C            Dsus4-3         E        
+ //O przyjdź, nad nami     zmiłuj się.// (2x)
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

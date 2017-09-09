@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Panem jest</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>516</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>F</key>
+  <aka>He is Lord</aka>
+  <key_line>125</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Jezus: Pan/Król; Jezus: Zmartwychwstanie; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>.C F   C7          F   
+ Panem jest, Panem jest,
+.                         G7 
+ powstał z martwych, żyje dziś
+.        C7sus4 
+ i Panem jest.
+---
+.     F     F7 
+ Uklęknijmy wraz,
+.         Bb    Bm6/C# 
+ wznieśmy jedną pieśń,
+.   F     C7    F   
+ bo Jezus Panem jest.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

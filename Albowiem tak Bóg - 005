@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Albowiem tak Bóg umiłował świat</title>
+  <author> Katarzyna Mitruska</author>
+  <copyright></copyright>
+  <hymn_number>005</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>Em</key>
+  <aka></aka>
+  <key_line>5</key_line>
+  <user1>J 3,16</user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża miłość; Bóg Ojciec; Jezus: Zbawienie; </theme>
+  <tempo>wolno, spokojnie</tempo>
+  <time_sig></time_sig>
+  <lyrics>
+.  Em         Cmaj7  D          
+ Albowiem tak Bóg umiłował Świat,
+.   C         Bm        Em  
+ że Syna Jednorodzonego dał,
+.   Em    Cmaj7       D   
+ by każdy kto w Niego wierzy
+.     C          Bm            Em  
+ nie zginął lecz życie wieczne miał.
+---
+ ||
+.  D  G              D/F# 
+ Lecz by mógł żyć na wieki,
+.C/E            B7  
+ by mógł żyć na wieki,
+.D    G               D/F# 
+ lecz by mógł żyć na wieki,
+.Em Cmaj7       B7  
+ by mógł żyć na wieki.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

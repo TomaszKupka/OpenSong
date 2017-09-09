@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Będę Ci Panie śpiewał dziś psalm</title>
+  <author>Jacek Salij</author>
+  <copyright></copyright>
+  <hymn_number>036</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>D</key>
+  <aka></aka>
+  <key_line>15</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boży majestat; Uwielbienie; </theme>
+  <tempo>umiarkowanie, spokojnie</tempo>
+  <time_sig></time_sig>
+  <lyrics>.D       F#m7               Bm7  
+ Będę Ci Panie śpiewał dziś psalm,
+.  G6           D      E7  A7sus4 
+ Śpiewał dziś psalm o Panie .
+---
+.Em7      A13    Dmaj7    Bm7 
+ Będę wysławiał majestat Twój,
+.     G6   A7    D 
+ na wieki Panie mój.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Maryjo śliczna Pani</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>385</hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>A</key>
+  <aka></aka>
+  <key_line>248</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Maryja; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.A              C#m 
+ Maryjo śliczna Pani,
+.      D      E        A   
+ Matko Boga i ludzi na ziemi.
+.     Bm    E   
+ Tyś świata Królową,
+.     A         F#  
+ Tyś gwiazdą na niebie,
+.      Bm             Bm/A 
+ która wiedzie nas do Boga
+.       E   Eaug
+ w jego raj
+
+[C] 
+.  A     D     A  
+ Maryja, Ave Maryja
+.  A          A9            F# 
+ u Boga nam wybłagaj zdroje łask,
+.   Bm            E         A       F# 
+ by świat lepszym był, by w miłości żył,
+.    Bm           E            A     E7
+ o Maryjo miej w opiece dzieci swe.       //x2
+---
+[V2]
+ Maryjo śliczna Pani
+ świat dziś czuje na swych
+ ustach gorzkie łzy.
+ W sercu ból, smutek, żal,
+ a w oczach wciąż strach,
+ matko przyjmij błaganie, pomóż nam.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

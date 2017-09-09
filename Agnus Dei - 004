@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Agnus Dei (Alleluja Zakrólował wszechmocy nasz Bóg)</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>004</hymn_number>
+  <presentation>V C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>A</key>
+  <aka>Agnus Dei</aka>
+  <key_line>340</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża świętość; Jezus: Pan/Król; Uwielbienie; </theme>
+  <tempo>70</tempo>
+  <time_sig></time_sig>
+  <lyrics>;BB 1T nabicia tempa przed Alleluja
+;beat1 - 1 Alleluja i 1 Święty
+;beat2 - 2 Alleluja
+;beat2 - 2 Święty
+
+[V]
+.A D/A  A  D/A  A   A D/A  A  D/A E/A   A 
+ A______llelu___ja, A______llelu________ja
+.     E/A         D/A       A       
+ Zakrólował wszechmocy nasz Bóg. 
+.A D/A  A  D/A  A   A D/A  A  D/A E/A   A 
+ A______llelu___ja, A______llelu________ja
+.     E/A         D/A       A       
+ Zakrólował wszechmocy nasz Bóg. 
+.A▼ D/A A  D    E     D/F#(►) 
+ A______llelu_________ja.
+---
+[C]
+.D/F# E  A   E/A    A 
+ Świę____ty, Świę___ty
+.A      D/A A         F#m  E  
+ Jesteś Pa__nem Wszechmo___cny.
+.  Bm    Bm/C#   D  
+ Baranek godzien jest,
+.  Bm    Bm/C#   D▼ 
+ Baranek godzien jest.
+ ||
+.D      E/D A   E/A  A 
+ Jesteś Święty, Świę_ty
+.A      D/A A         F#m  E  
+ Jesteś Pa__nem Wszechmo___cny.
+.  Bm    Bm/C#   D  
+ Baranek godzien jest,
+.  Bm    Bm/C#   D▼(►)(■)
+ Baranek godzien jest.
+.D   E/D A(►)  
+ A_______men.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

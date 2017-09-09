@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Będę śpiewał Tobie Mocy moja</title>
+  <author>J. Sykulski</author>
+  <copyright></copyright>
+  <hymn_number>037</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>D</key>
+  <aka></aka>
+  <key_line>16</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Wyznanie wiary/zawierzenie; </theme>
+  <tempo>umiarkowanie,spokojnie</tempo>
+  <time_sig></time_sig>
+  <lyrics>.A7sus4     D     G  A4-3    D    Bm
+ Będę    śpiewał Tobie mocy moja  
+.   G     A/G          Dmaj7/F#  Bm
+ Ty Panie jesteś mą nadzieją,      
+.      D/A    Em/A  A4-3    D   
+ Tobie ufam i bać   się nie będę.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Bądź pozdrowiony Gościu nasz</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>032</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>D</key>
+  <aka></aka>
+  <key_line>12</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Kościół/wspólnota; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>.D            A          Bm  Bm/A
+ Bądź pozdrowiony gościu nasz,
+.     G           E7    A4-3 
+ w radosne progi nasze wejdź.
+.D       A            Bm  Bm/A
+ My zapalimy zamiast lamp
+.       G          A7sus4 D   
+ szczęśliwe ognie naszych serc.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

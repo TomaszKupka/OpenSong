@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Nim świt obudzi noc</title>
+  <author>John Newton Zbigniew Łebka Zbigniew Łebka</author>
+  <copyright></copyright>
+  <hymn_number>435</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>F</key>
+  <aka>Amazing Grace</aka>
+  <key_line>310</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Jezus: Powtórne przyjście; Prośba; Tęsknota za Bogiem; </theme>
+  <tempo>T=66</tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.E               E7
+ Nim świt obudzi noc
+.         A         E
+ dotykiem ciepłych mgieł,
+.E               E7           F#m7     B7/6
+ Nim dzień ożywi świat, Panie przyjdź.
+.       E                   E7
+ Wołam: Przyjdź, uciesz mój wzrok
+.         A       E
+ spokojem jasnych barw,
+.    E             B7/6   B7 E        B7/6
+ nim mnie zachwyci kwiat, Ty przyjdź.
+---
+[V2]
+ Choć chcę wciąż dalej iść,
+ niewiele mogę sam.
+ Więc znów podnoszę głos Panie przyjdź.
+ Wołam przyjdź i otrzyj mą
+ oblaną lękiem twarz.
+ Nim znów postawię krok, Ty przyjdź.
+
+[V3]
+ I tak poprowadź mnie
+ przez piętra trudnych lat,
+ Bądź w dzień radością dnia, w nocy snem,
+ pomóż mi, o Panie mój,
+ rysować życia kształt,
+ Bym mógł wciąż naprzód iść,
+ bym trwał.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

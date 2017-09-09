@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Tak Pan jest mocą mą</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>641</hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key>E</key>
+  <aka></aka>
+  <key_line>240</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme>Boża radość; Boży pokój; Boża opatrzność; </theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.E                 A 
+ Tak Pan jest mocą mą,
+.    E        B7   C#m 
+ tak Pan jest siłą mą,
+.     F#m       B7     E B7 E     
+ moje serce ufa Mu i raduje się //x2
+---
+[C]
+.A        F#m  E      C#m 
+ Serce me jest pokoju pełne
+.F#m       B7              E   E7 
+ i pieśnią swą chcę sławić Go_____ //x2
+
+[V2] 
+ Tak Pan jest skałą mą,
+ Tak Pan jest tarczą mą,
+ moje serce ufa Mu i raduje się //x2
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
